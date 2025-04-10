@@ -71,9 +71,9 @@
 **Goal**: Combine multiple relationships on the same node.
 
 
-### Bonus Challenge
+<!-- ### Bonus Challenge
 
-Create a **recommendation query** that suggests movies based on shared genres and frequent collaborators of a user’s favorite actor (e.g., **Keanu Reeves**).
+Create a **recommendation query** that suggests movies based on shared genres and frequent collaborators of a user’s favorite actor (e.g., **Keanu Reeves**). -->
 
 **Tips:**
 
