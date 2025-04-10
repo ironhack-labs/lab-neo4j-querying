@@ -49,7 +49,7 @@
 
 ### 7. Movies with Multiple Relationships
 
-**Task**: Find all people who either acted in, directed, or wrote **Cloud Atlas**. <br>
+**Task**: Find all people who either acted in or directed **Cloud Atlas**. <br>
 **Goal**: Filter relationship types dynamically.
 
 
